@@ -1,2 +1,4 @@
+*~
 node_modules/
 systemd/environment
+package-lock.json
