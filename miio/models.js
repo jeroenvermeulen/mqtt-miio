@@ -24,4 +24,7 @@ module.exports = {
 	"chuangmi.plug.hmi205": require('./plug/hmi205'),
 	"chuangmi.plug.hmi206": require('./plug/hmi206'),
 	"chuangmi.plug.hmi208": require('./plug/hmi208'),
+
+	// light bulbs
+	'philips.light.cbulb': require('./bulb/philips_cbulb')
 };
